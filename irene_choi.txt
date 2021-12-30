@@ -1,4 +1,0 @@
-This is created by Irene Choi
-
-This time I edit this file.
-To push from remote master -> origin/master
